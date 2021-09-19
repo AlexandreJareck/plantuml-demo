@@ -6,6 +6,10 @@ class Teste {
   + bar foo 
 }
 
+class Teste2 {
+  + bar foo 
+}
+
 class Alerta <<abstract>> {
   - number timerHandler
   + Date horario
